@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag
-- 👀 I’m interested in development with Ruby
-- 🌱 I’m currently learning aws.
+- 👀 I’m interested in development with Ruby on Rails.
+- 🌱 I’m currently learning AWS.
 
 <!---
 manurag07/manurag07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
