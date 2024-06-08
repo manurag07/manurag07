@@ -25,16 +25,16 @@ I regularly create content to educate, inform, and inspire developers. Check out
 ## 💼 Experience
 
 - **Current Role:**
-  - Senior Software Engineer at [Sopra Banking Software](link-to-company)
+  - Senior Software Engineer at [Sopra Banking Software](https://www.soprabanking.com/)
   - Tech Stack: Ruby, Ruby on Rails, React.js, PostgreSQL
 
 - **Past Roles:**
-  - Senior Software Development Engineer at Sopra Banking Software
-  - Technical Lead at [Previous Company](link-to-company)
+  - Software Engineer at Acquia India Private Limited
+  - Software Developer at Ksolves India Limited
 
 ## 🎓 Education
 
-- [Your Degree](link-to-degree) from [Your University](link-to-university)
+- Bachelor of Technology from AKTU(UPTU)
 
 ## 🌱 What I'm currently learning
 
