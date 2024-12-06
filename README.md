@@ -6,17 +6,15 @@ I'm a Senior Software Engineer specializing in Ruby, Ruby on Rails, React.js, Po
 
 - **Languages & Frameworks:**
   - Ruby, Ruby on Rails
-  - JavaScript, React.js
-  - HTML, CSS
 
 - **Databases:**
-  - PostgreSQL
-  - MySQL
+  - PostgreSQL, MySQL
 
 - **Tools & Platforms:**
   - AWS
   - Docker
   - Git
+  - Kubernetes
 
 ## 📚 Articles & Content
 
@@ -25,7 +23,7 @@ I regularly create content to educate, inform, and inspire developers. Check out
 ## 💼 Experience
 
 - **Current Role:**
-  - Senior Software Engineer at [Sopra Banking Software](https://www.soprabanking.com/)
+  - Senior Software Engineer at [SBS](https://www.soprabanking.com/)
   - Tech Stack: Ruby, Ruby on Rails, React.js, PostgreSQL
 
 - **Past Roles:**
@@ -38,7 +36,7 @@ I regularly create content to educate, inform, and inspire developers. Check out
 
 ## 🌱 What I'm currently learning
 
-- Advanced React.js patterns
+- Advanced ruby on rails patterns
 - Performance optimization in Rails applications
 - Cloud architecture and deployments
 
