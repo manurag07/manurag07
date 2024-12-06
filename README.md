@@ -13,7 +13,7 @@ I'm a Senior Software Engineer specializing in Ruby, Ruby on Rails, React.js, Po
 - **Tools & Platforms:**
   - AWS
   - Docker
-  - Git
+  - GitLab
   - Kubernetes
 
 ## 📚 Articles & Content
